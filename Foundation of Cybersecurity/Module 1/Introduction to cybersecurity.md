@@ -44,6 +44,3 @@ After completing a cybersecurity program, you may qualify for roles such as:
    - Builds and maintains trust with customers, safeguarding the organization's reputation and revenue.
 
 ---
-
-## Next Steps
-This chapter lays the foundation for understanding cybersecurity. As you progress through the program, you'll explore more advanced topics and responsibilities associated with security roles.

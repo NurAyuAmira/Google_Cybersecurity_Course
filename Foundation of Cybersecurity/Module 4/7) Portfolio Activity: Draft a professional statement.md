@@ -123,3 +123,7 @@ To complete the self-assessment, first open your professional statement. Then re
 
 When you complete and submit your responses, you will receive a percentage score. This score will help you confirm whether you completed the required steps of the activity. The recommended passing grade for this project is at least 80% (or 4/5 points). If you want to increase your score, you can revise your project and then resubmit your responses to reflect any changes you made. Try to achieve at least 4 points before continuing on to the next course item.
 
+Finalize: Ayu is a highly motivated Computer Science graduate specializing in Cybersecurity, with a strong focus on Cyber Risk Management. She has practical experience in conducting risk assessments using NIST CSF 2.0 frameworks, managing supplier risk profiles, and ensuring compliance with organizational security requirements. Ayu’s technical expertise includes tools like Python, Wireshark, and VirtualBox, which she has applied in projects focused on cloud and network security.
+
+Driven by her commitment to minimizing cyber risks and strengthening organizational resilience, Ayu values safeguarding sensitive data, ensuring compliance, and fostering trust in digital environments. She is seeking an entry-level cybersecurity position that will allow her to apply her skills and grow her expertise while contributing to robust Cyber Risk Management initiatives. Available to start full-time in February 2025, Ayu is ready to support organizations in achieving their cybersecurity goals.
+
